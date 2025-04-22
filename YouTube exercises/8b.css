@@ -1,0 +1,12 @@
+    .survey {
+      width: 200px;
+      display: inline-block;
+      vertical-align: middle;
+      margin-left: 8px;
+    }
+
+    .button-yes,
+    .button-no {
+      vertical-align: middle;
+      cursor: pointer;
+    }
