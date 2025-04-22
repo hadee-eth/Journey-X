@@ -1,0 +1,34 @@
+
+p {
+  font-family: Arial;
+  font-size: 14px;
+  margin: 6px 0px;
+  color: rgb(98, 97, 97);
+}
+
+.terms {
+  margin: 18px 0px;
+}
+
+.search-bar {
+  width: 340px;
+}
+
+.button-agree {
+  width: 350px;
+  font-size: 18px;
+  background-color: #0A66C2;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-agree:hover {
+ background-color: #094f95; 
+}
+
+.button-agree:active {
+  opacity: 0.8;
+}
