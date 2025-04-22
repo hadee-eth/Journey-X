@@ -1,0 +1,26 @@
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8px 0px;
+}
+
+.price-main {
+  font-size: 28px;
+}
+
+.USD-main {
+  color: rgb(134, 134, 134);
+  font-size: 14px;
+} 
+
+.price-up {
+  color: green;
+}
+
+.price-closure {
+  color: rgb(134, 134, 134);
+}
+
+.closure-change {
+  color: red;
+}
