@@ -1,0 +1,17 @@
+
+.text-question {
+  font-family: arial;
+}
+
+.div-service {
+  width: 300px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: white;
+  border-color: green;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 20px;
+  margin: 10px 10px;
+}
