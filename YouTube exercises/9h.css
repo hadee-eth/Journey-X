@@ -1,0 +1,50 @@
+    
+    .img-google {
+      width: 200px;
+      margin-top: 20px;
+      margin-bottom: 0;
+    }
+
+    .search-bar {
+      width: 400px;
+      padding: 12px 16px;
+      border: none;
+      box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+      border-radius: 20px;
+      margin-top: 0px;
+      margin-left: 20px;
+    }
+    
+    .button-search,
+    .button-lucky {
+      width: 120px;
+      padding: 12px 0px;
+      border: none;
+      margin-right: 5px;
+      margin-left: 5px;
+      transition: 0.15s;
+      cursor: pointer;
+    }
+
+    .button-search:hover,
+    .button-lucky:hover {
+      background-color: rgb(190, 190, 190);
+    }
+    
+    .button-search:active,
+    .button-lucky:active {
+      opacity: 0.8;
+    }
+
+    .div-img {
+      text-align: center;
+    }
+    
+    .div-search {
+      text-align: center;
+    }
+
+    .div-buttons {
+      text-align: center;
+      margin-top: 30px;
+    }
