@@ -1,0 +1,61 @@
+      .container {
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       margin-top: 10px;
+       margin-bottom: 10px;
+      }
+
+      img {
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 50px;
+      }
+
+      p {
+        font-family: arial;
+        margin: 0px 2px;
+      }
+      
+      .profile-info {
+        margin-left: 10px;
+        margin-right: 100px;
+        width: 80px;
+      }
+
+      .name {
+        font-weight: bold;
+      }
+
+      .handle {
+        font-size: 16px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+        color: rgb(167, 167, 167);
+        cursor: pointer;
+      }
+
+      .category {
+        font-size: 12px;
+        color: rgb(167, 167, 167);
+      }
+
+      button {
+        background-color: rgb(29, 150, 240);
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 5px;
+        margin-left: 20px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: rgb(15, 78, 127);
+      }
+
+      button:active {
+        opacity: 0.5;
+      }
