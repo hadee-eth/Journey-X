@@ -1,0 +1,24 @@
+body {
+  height: 3000px;
+}
+
+.right-box {
+  position: fixed;
+  width: 320px;
+  height: 180px;
+  background-color: rgb(182, 182, 182);
+  bottom: 5px;
+  right: 5px;
+}
+
+.close-button {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 8px 11px;
+  border-radius: 100px;
+  font-family: Arial;
+  font-size: 13px;
+  top: 10px;
+  right: 10px;
+}
